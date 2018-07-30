@@ -3,7 +3,7 @@ package ru.buyanov.hunting;
 import java.util.Iterator;
 
 /**
- *  @author https://github.com/alex-on-java 03.02.2016
+ *  @author https://github.com/KonstantinPos 30.07.2018
  */
 public class IntIterable implements Iterable<Integer> {
     int[] backed;
